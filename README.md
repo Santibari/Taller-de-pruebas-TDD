@@ -1,3 +1,5 @@
 # Taller-de-pruebas-TDD
 
-HECHO POR: Santiago Bazzani Rincon
+HECHO POR: 
+- Santiago Bazzani Rincon
+- Anthony Nope
